@@ -64,6 +64,8 @@ Analyzed revenue and profit by category.
 
 ### 🔹 Region Performance
 Compared sales performance across different regions.
+[Query Output](<img width="1920" height="1017" alt="Screenshot (508)" src="https://github.com/user-attachments/assets/5d754664-2090-4d36-8a94-1ba0fd81257f" />
+)
 
 ---
 
